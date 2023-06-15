@@ -1,0 +1,3 @@
+﻿  Triangle_Cake.cpp
+D:\Academic\SEM 04\Algorithem\Triangle_Cake\Triangle_Cake\Triangle_Cake.cpp(13,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Triangle_Cake.vcxproj -> D:\Academic\SEM 04\Algorithem\Triangle_Cake\x64\Debug\Triangle_Cake.exe
